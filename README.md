@@ -17,7 +17,11 @@ sy-purchase-reporting
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[purchase_botanic_denomination](purchase_botanic_denomination/) | 18.0.1.0.0 |  | Adds the botanic denomination to menus and purchase report's products
 
 [//]: # (end addons)
 
